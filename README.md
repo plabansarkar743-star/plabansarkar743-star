@@ -1,6 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building practical ML/AI projects (such as NLP, computer vision, and predictive models) and sharpening my Java fundamentals for backend development.👯 I’m looking to collaborate on: Open-source repositories on GitHub , especially projects that leverage Python, Java, or Machine Learning.🤝 I’m looking for help with: Preparing for Software Engineering (SWE) and ML internship applications for the 2025-26 cycle.🌱 I’m currently learning: Deeper applications of my core stack (Python, Java, ML) through data pipelines, algorithm design, and AI model experimentation.💬 Ask me about: Python, Java, Object-Oriented Programming (OOP) , Data Structures & Algorithms , and how to approach AI with an engineering mindset to solve real problems.
+🔭 I’m currently working on: Building practical Python-driven ML/AI projects (such as NLP, computer vision, and predictive models) and sharpening my Python fundamentals for backend development.
 
+👯 I’m looking to collaborate on: Open-source repositories on GitHub, especially projects that heavily leverage Python and its Machine Learning ecosystem.
+
+🤝 I’m looking for help with: Finding the right learning roadmaps, beginner-friendly resources, and guidance to transition from foundational to intermediate Python development.
+
+🌱 I’m currently learning: Deeper applications of Python through data pipelines, advanced Data Structures and Algorithms (including time complexities, sorting methods, and tree balancing), and AI model experimentation.
+
+💬 Ask me about: Python, Object-Oriented Programming (OOP), Data Structures & Algorithms, managing project repositories with Git, and how to approach AI with an engineering mindset to solve real problems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/plaban-sarkar-139978286) 
